@@ -1,0 +1,4 @@
+name: AutoSoup
+main: me.landon.soupheal.Main
+version: 1.0
+description: Heal when right clicking soup.
